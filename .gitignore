@@ -6,7 +6,7 @@
 .pnp.js
 
 # debug
-/.vscode
+.vscode
 
 # testing
 /coverage
